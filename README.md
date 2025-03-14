@@ -1,8 +1,8 @@
 # DevBuild Resume 2024
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ![GitHub repo size](https://img.shields.io/github/repo-size/egarrisxn/devbuild-resume) ![GitHub last commit](https://img.shields.io/github/last-commit/egarrisxn/devbuild-resume)
-
 ![devbuildresume](https://github.com/user-attachments/assets/17dbf147-47c5-4849-8756-175f683ce531)
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ![GitHub repo size](https://img.shields.io/github/repo-size/egarrisxn/devbuild-resume) ![GitHub last commit](https://img.shields.io/github/last-commit/egarrisxn/devbuild-resume)
 
 ## Description
 
